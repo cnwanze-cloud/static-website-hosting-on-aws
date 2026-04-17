@@ -48,6 +48,8 @@ Implemented a serverless, globally distributed architecture using:
 5.	S3 returns static files securely  
 6.	User receives fast, secure content
 
+<img width="1536" height="1024" alt="Architecture Diagram 2" src="https://github.com/user-attachments/assets/67454394-5ae1-4f7d-8936-ebe25492eba5" />
+
    
 
 <img width="1408" height="768" alt="Architectural Diagram" src="https://github.com/user-attachments/assets/45ab36c0-29b3-4ad8-ac24-0a53660de72a" />
