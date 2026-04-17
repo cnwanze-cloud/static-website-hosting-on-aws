@@ -46,7 +46,12 @@ Implemented a serverless, globally distributed architecture using:
    o	Enforces HTTPS  
 4.	If not cached → CloudFront fetches from private S3 bucket  
 5.	S3 returns static files securely  
-6.	User receives fast, secure content  
+6.	User receives fast, secure content
+
+   
+
+<img width="1408" height="768" alt="Architectural Diagram" src="https://github.com/user-attachments/assets/45ab36c0-29b3-4ad8-ac24-0a53660de72a" />
+
 
 ---
 
